@@ -1,17 +1,18 @@
 [
   {
-    "remark": "自定义用户备注名称",
-    "phone": "手机号",
-    "password": "密码",
-    "province": "xx省",
-    "city": "xx市",
-    "area": "xx区",
-    "address": "最终打卡页面显示的文字，xx省 · xx市 · 某路边",
-    "longitude": "经度(精确到小数点后六位)",
-    "latitude": "纬度(精确到小数点后六位)",
+    "remark": "王家俊",
+    "phone": "18164239203",
+    "password": "Wjj12345678",
+    "province": "重庆市",
+    "city": "重庆市",
+    "area": "巴南区",
+    "address": "重庆市·巴南区·龙洲湾街道·渝南大道163号",
+    "longitude": "106.547238",
+    "latitude": "29.412325",
     "randomLocation": true,
     "enable": true,
     "desc": "打卡备注",
-    "pushKey": "pushplus官网获取的key，需要实名"
+    "pushKey": "918b01edee6d42028e31198544d6acae"
   }
+
 ]
